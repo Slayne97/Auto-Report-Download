@@ -12,9 +12,9 @@ from selenium.common.exceptions import StaleElementReferenceException
 # Constants
 USER_BOX_ID = "ContentPlaceHolder1_LogIn2_txtLogInUserNameValue"
 PASS_BOX_ID = "ContentPlaceHolder1_LogIn2_txtLogInPasswordValue"
-USER = "548048"
-PASSWORD = "1974"
-LAT_LINK = r'http://apps.rymx.trw.com/QA/LAT/Pages/LogIn.aspx'
+USER = "123456"
+PASSWORD = "123456"
+LAT_LINK = r'https://www.place_holder.com/'
 
 
 DROPDOWN_ID = "ContentPlaceHolder1_ContentPlaceHolder1_" \
